@@ -8,29 +8,31 @@
 
 /* Begin PBXBuildFile section */
 		00E356F31AD99517003FC87E /* GuessTheNumberTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* GuessTheNumberTests.m */; };
+		02B0457BC4344687BC4DEE00 /* BarlowCondensed-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 01BD7237A87E47F48F9EE5FD /* BarlowCondensed-Italic.ttf */; };
+		03EE46A726C149DDA1E4844C /* BarlowCondensed-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5D5D16AE39D045E4B669F94D /* BarlowCondensed-ExtraBold.ttf */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		2749B82FFB7D9D7BF3BE49F0 /* libPods-GuessTheNumber-GuessTheNumberTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = D9D951B15DC122D16C09D529 /* libPods-GuessTheNumber-GuessTheNumberTests.a */; };
+		2C3058BDE6944CB59643FE02 /* BarlowCondensed-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3DD8ECB1B7A14864951C252A /* BarlowCondensed-Thin.ttf */; };
+		2F12500FC8D5450390420B66 /* BarlowCondensed-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7E0169D7903F465E97A99585 /* BarlowCondensed-Regular.ttf */; };
 		39774FA5DFB44453838509BF /* BarlowCondensed-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 598C5460ABA6439D807CCB7A /* BarlowCondensed-Black.ttf */; };
+		4CCECD0E0DD84F73B0B696A0 /* BebasNeue-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DF72DC92B3284800A1D859EB /* BebasNeue-Regular.ttf */; };
+		70CB00D473738BE6812230F2 /* libPods-GuessTheNumber.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3A6E731EAB9DDE7E7648DF24 /* libPods-GuessTheNumber.a */; };
+		7D4527A92D0F497CA3091AA8 /* BarlowCondensed-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BA58B9E606F44F5FA97D953A /* BarlowCondensed-Medium.ttf */; };
+		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		84326F4C2F5F4738BB048A45 /* BarlowCondensed-ThinItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E60CAAA8AAD641F4A3144A3F /* BarlowCondensed-ThinItalic.ttf */; };
+		8F60FC286B4E41D6ABAA4F23 /* BarlowCondensed-SemiBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 068E6B91B1A846FB918A73FD /* BarlowCondensed-SemiBoldItalic.ttf */; };
+		AD8E3F0B4C894B438266596C /* BarlowCondensed-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F245C6157AC4400BBB043A0C /* BarlowCondensed-LightItalic.ttf */; };
+		AF720EDEBA43404F8242D072 /* BarlowCondensed-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 89E030664E904C3684C3C4A0 /* BarlowCondensed-ExtraLight.ttf */; };
+		B38E5BFCAB664BAFAA8404C0 /* BarlowCondensed-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 24C83167C9044B029F896501 /* BarlowCondensed-SemiBold.ttf */; };
+		BF1B5EDE630B4E9D9743C6CC /* BarlowCondensed-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B19B2692639247CBABF1DDC0 /* BarlowCondensed-MediumItalic.ttf */; };
 		CCE2024683D4496A995520D8 /* BarlowCondensed-BlackItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D5D9C265E5634D3781C6A139 /* BarlowCondensed-BlackItalic.ttf */; };
 		D90A5D1EA0EA4E1AAE879892 /* BarlowCondensed-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 63474A4B704640FFA4DE1980 /* BarlowCondensed-Bold.ttf */; };
 		E7426D54873C423A9E9AB752 /* BarlowCondensed-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0A26E5A2F934406A8DB005F3 /* BarlowCondensed-BoldItalic.ttf */; };
-		03EE46A726C149DDA1E4844C /* BarlowCondensed-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5D5D16AE39D045E4B669F94D /* BarlowCondensed-ExtraBold.ttf */; };
 		E8EE70F2364D48C7A86755D0 /* BarlowCondensed-ExtraBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 86C1F9FC40484DD4A8C8F9C7 /* BarlowCondensed-ExtraBoldItalic.ttf */; };
-		AF720EDEBA43404F8242D072 /* BarlowCondensed-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 89E030664E904C3684C3C4A0 /* BarlowCondensed-ExtraLight.ttf */; };
-		F8F120DF5A7647DA8A4A2AAE /* BarlowCondensed-ExtraLightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9BD54F8D50AE434BB602A30B /* BarlowCondensed-ExtraLightItalic.ttf */; };
-		02B0457BC4344687BC4DEE00 /* BarlowCondensed-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 01BD7237A87E47F48F9EE5FD /* BarlowCondensed-Italic.ttf */; };
 		F3F6804FF76F46DDBA59B339 /* BarlowCondensed-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B6FEDA9044E24C37AFAA8A2E /* BarlowCondensed-Light.ttf */; };
-		AD8E3F0B4C894B438266596C /* BarlowCondensed-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F245C6157AC4400BBB043A0C /* BarlowCondensed-LightItalic.ttf */; };
-		7D4527A92D0F497CA3091AA8 /* BarlowCondensed-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BA58B9E606F44F5FA97D953A /* BarlowCondensed-Medium.ttf */; };
-		BF1B5EDE630B4E9D9743C6CC /* BarlowCondensed-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B19B2692639247CBABF1DDC0 /* BarlowCondensed-MediumItalic.ttf */; };
-		2F12500FC8D5450390420B66 /* BarlowCondensed-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7E0169D7903F465E97A99585 /* BarlowCondensed-Regular.ttf */; };
-		B38E5BFCAB664BAFAA8404C0 /* BarlowCondensed-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 24C83167C9044B029F896501 /* BarlowCondensed-SemiBold.ttf */; };
-		8F60FC286B4E41D6ABAA4F23 /* BarlowCondensed-SemiBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 068E6B91B1A846FB918A73FD /* BarlowCondensed-SemiBoldItalic.ttf */; };
-		2C3058BDE6944CB59643FE02 /* BarlowCondensed-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3DD8ECB1B7A14864951C252A /* BarlowCondensed-Thin.ttf */; };
-		84326F4C2F5F4738BB048A45 /* BarlowCondensed-ThinItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E60CAAA8AAD641F4A3144A3F /* BarlowCondensed-ThinItalic.ttf */; };
-		4CCECD0E0DD84F73B0B696A0 /* BebasNeue-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DF72DC92B3284800A1D859EB /* BebasNeue-Regular.ttf */; };
+		F8F120DF5A7647DA8A4A2AAE /* BarlowCondensed-ExtraLightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9BD54F8D50AE434BB602A30B /* BarlowCondensed-ExtraLightItalic.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,33 +49,39 @@
 		00E356EE1AD99517003FC87E /* GuessTheNumberTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GuessTheNumberTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00E356F21AD99517003FC87E /* GuessTheNumberTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GuessTheNumberTests.m; sourceTree = "<group>"; };
+		01BD7237A87E47F48F9EE5FD /* BarlowCondensed-Italic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "BarlowCondensed-Italic.ttf"; path = "../src/assets/fonts/BarlowCondensed-Italic.ttf"; sourceTree = "<group>"; };
+		01F0240C71E8699C98C45F65 /* Pods-GuessTheNumber.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GuessTheNumber.release.xcconfig"; path = "Target Support Files/Pods-GuessTheNumber/Pods-GuessTheNumber.release.xcconfig"; sourceTree = "<group>"; };
+		068E6B91B1A846FB918A73FD /* BarlowCondensed-SemiBoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "BarlowCondensed-SemiBoldItalic.ttf"; path = "../src/assets/fonts/BarlowCondensed-SemiBoldItalic.ttf"; sourceTree = "<group>"; };
+		0A26E5A2F934406A8DB005F3 /* BarlowCondensed-BoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "BarlowCondensed-BoldItalic.ttf"; path = "../src/assets/fonts/BarlowCondensed-BoldItalic.ttf"; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* GuessTheNumber.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GuessTheNumber.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = GuessTheNumber/AppDelegate.h; sourceTree = "<group>"; };
 		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = GuessTheNumber/AppDelegate.m; sourceTree = "<group>"; };
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = GuessTheNumber/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = GuessTheNumber/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = GuessTheNumber/main.m; sourceTree = "<group>"; };
+		24C83167C9044B029F896501 /* BarlowCondensed-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "BarlowCondensed-SemiBold.ttf"; path = "../src/assets/fonts/BarlowCondensed-SemiBold.ttf"; sourceTree = "<group>"; };
+		3A6E731EAB9DDE7E7648DF24 /* libPods-GuessTheNumber.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-GuessTheNumber.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3DD8ECB1B7A14864951C252A /* BarlowCondensed-Thin.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "BarlowCondensed-Thin.ttf"; path = "../src/assets/fonts/BarlowCondensed-Thin.ttf"; sourceTree = "<group>"; };
+		56E4972358F55830DB647075 /* Pods-GuessTheNumber-GuessTheNumberTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GuessTheNumber-GuessTheNumberTests.release.xcconfig"; path = "Target Support Files/Pods-GuessTheNumber-GuessTheNumberTests/Pods-GuessTheNumber-GuessTheNumberTests.release.xcconfig"; sourceTree = "<group>"; };
+		598C5460ABA6439D807CCB7A /* BarlowCondensed-Black.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "BarlowCondensed-Black.ttf"; path = "../src/assets/fonts/BarlowCondensed-Black.ttf"; sourceTree = "<group>"; };
+		5D5D16AE39D045E4B669F94D /* BarlowCondensed-ExtraBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "BarlowCondensed-ExtraBold.ttf"; path = "../src/assets/fonts/BarlowCondensed-ExtraBold.ttf"; sourceTree = "<group>"; };
+		63474A4B704640FFA4DE1980 /* BarlowCondensed-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "BarlowCondensed-Bold.ttf"; path = "../src/assets/fonts/BarlowCondensed-Bold.ttf"; sourceTree = "<group>"; };
+		7E0169D7903F465E97A99585 /* BarlowCondensed-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "BarlowCondensed-Regular.ttf"; path = "../src/assets/fonts/BarlowCondensed-Regular.ttf"; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = GuessTheNumber/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		86C1F9FC40484DD4A8C8F9C7 /* BarlowCondensed-ExtraBoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "BarlowCondensed-ExtraBoldItalic.ttf"; path = "../src/assets/fonts/BarlowCondensed-ExtraBoldItalic.ttf"; sourceTree = "<group>"; };
+		89E030664E904C3684C3C4A0 /* BarlowCondensed-ExtraLight.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "BarlowCondensed-ExtraLight.ttf"; path = "../src/assets/fonts/BarlowCondensed-ExtraLight.ttf"; sourceTree = "<group>"; };
+		9BD54F8D50AE434BB602A30B /* BarlowCondensed-ExtraLightItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "BarlowCondensed-ExtraLightItalic.ttf"; path = "../src/assets/fonts/BarlowCondensed-ExtraLightItalic.ttf"; sourceTree = "<group>"; };
+		B19B2692639247CBABF1DDC0 /* BarlowCondensed-MediumItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "BarlowCondensed-MediumItalic.ttf"; path = "../src/assets/fonts/BarlowCondensed-MediumItalic.ttf"; sourceTree = "<group>"; };
+		B6FEDA9044E24C37AFAA8A2E /* BarlowCondensed-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "BarlowCondensed-Light.ttf"; path = "../src/assets/fonts/BarlowCondensed-Light.ttf"; sourceTree = "<group>"; };
+		BA58B9E606F44F5FA97D953A /* BarlowCondensed-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "BarlowCondensed-Medium.ttf"; path = "../src/assets/fonts/BarlowCondensed-Medium.ttf"; sourceTree = "<group>"; };
+		D5D9C265E5634D3781C6A139 /* BarlowCondensed-BlackItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "BarlowCondensed-BlackItalic.ttf"; path = "../src/assets/fonts/BarlowCondensed-BlackItalic.ttf"; sourceTree = "<group>"; };
+		D9D951B15DC122D16C09D529 /* libPods-GuessTheNumber-GuessTheNumberTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-GuessTheNumber-GuessTheNumberTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		DF72DC92B3284800A1D859EB /* BebasNeue-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "BebasNeue-Regular.ttf"; path = "../src/assets/fonts/BebasNeue-Regular.ttf"; sourceTree = "<group>"; };
+		E60CAAA8AAD641F4A3144A3F /* BarlowCondensed-ThinItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "BarlowCondensed-ThinItalic.ttf"; path = "../src/assets/fonts/BarlowCondensed-ThinItalic.ttf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
-		598C5460ABA6439D807CCB7A /* BarlowCondensed-Black.ttf */ = {isa = PBXFileReference; name = "BarlowCondensed-Black.ttf"; path = "../src/assets/fonts/BarlowCondensed-Black.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		D5D9C265E5634D3781C6A139 /* BarlowCondensed-BlackItalic.ttf */ = {isa = PBXFileReference; name = "BarlowCondensed-BlackItalic.ttf"; path = "../src/assets/fonts/BarlowCondensed-BlackItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		63474A4B704640FFA4DE1980 /* BarlowCondensed-Bold.ttf */ = {isa = PBXFileReference; name = "BarlowCondensed-Bold.ttf"; path = "../src/assets/fonts/BarlowCondensed-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		0A26E5A2F934406A8DB005F3 /* BarlowCondensed-BoldItalic.ttf */ = {isa = PBXFileReference; name = "BarlowCondensed-BoldItalic.ttf"; path = "../src/assets/fonts/BarlowCondensed-BoldItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		5D5D16AE39D045E4B669F94D /* BarlowCondensed-ExtraBold.ttf */ = {isa = PBXFileReference; name = "BarlowCondensed-ExtraBold.ttf"; path = "../src/assets/fonts/BarlowCondensed-ExtraBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		86C1F9FC40484DD4A8C8F9C7 /* BarlowCondensed-ExtraBoldItalic.ttf */ = {isa = PBXFileReference; name = "BarlowCondensed-ExtraBoldItalic.ttf"; path = "../src/assets/fonts/BarlowCondensed-ExtraBoldItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		89E030664E904C3684C3C4A0 /* BarlowCondensed-ExtraLight.ttf */ = {isa = PBXFileReference; name = "BarlowCondensed-ExtraLight.ttf"; path = "../src/assets/fonts/BarlowCondensed-ExtraLight.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		9BD54F8D50AE434BB602A30B /* BarlowCondensed-ExtraLightItalic.ttf */ = {isa = PBXFileReference; name = "BarlowCondensed-ExtraLightItalic.ttf"; path = "../src/assets/fonts/BarlowCondensed-ExtraLightItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		01BD7237A87E47F48F9EE5FD /* BarlowCondensed-Italic.ttf */ = {isa = PBXFileReference; name = "BarlowCondensed-Italic.ttf"; path = "../src/assets/fonts/BarlowCondensed-Italic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		B6FEDA9044E24C37AFAA8A2E /* BarlowCondensed-Light.ttf */ = {isa = PBXFileReference; name = "BarlowCondensed-Light.ttf"; path = "../src/assets/fonts/BarlowCondensed-Light.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		F245C6157AC4400BBB043A0C /* BarlowCondensed-LightItalic.ttf */ = {isa = PBXFileReference; name = "BarlowCondensed-LightItalic.ttf"; path = "../src/assets/fonts/BarlowCondensed-LightItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		BA58B9E606F44F5FA97D953A /* BarlowCondensed-Medium.ttf */ = {isa = PBXFileReference; name = "BarlowCondensed-Medium.ttf"; path = "../src/assets/fonts/BarlowCondensed-Medium.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		B19B2692639247CBABF1DDC0 /* BarlowCondensed-MediumItalic.ttf */ = {isa = PBXFileReference; name = "BarlowCondensed-MediumItalic.ttf"; path = "../src/assets/fonts/BarlowCondensed-MediumItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		7E0169D7903F465E97A99585 /* BarlowCondensed-Regular.ttf */ = {isa = PBXFileReference; name = "BarlowCondensed-Regular.ttf"; path = "../src/assets/fonts/BarlowCondensed-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		24C83167C9044B029F896501 /* BarlowCondensed-SemiBold.ttf */ = {isa = PBXFileReference; name = "BarlowCondensed-SemiBold.ttf"; path = "../src/assets/fonts/BarlowCondensed-SemiBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		068E6B91B1A846FB918A73FD /* BarlowCondensed-SemiBoldItalic.ttf */ = {isa = PBXFileReference; name = "BarlowCondensed-SemiBoldItalic.ttf"; path = "../src/assets/fonts/BarlowCondensed-SemiBoldItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		3DD8ECB1B7A14864951C252A /* BarlowCondensed-Thin.ttf */ = {isa = PBXFileReference; name = "BarlowCondensed-Thin.ttf"; path = "../src/assets/fonts/BarlowCondensed-Thin.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		E60CAAA8AAD641F4A3144A3F /* BarlowCondensed-ThinItalic.ttf */ = {isa = PBXFileReference; name = "BarlowCondensed-ThinItalic.ttf"; path = "../src/assets/fonts/BarlowCondensed-ThinItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		DF72DC92B3284800A1D859EB /* BebasNeue-Regular.ttf */ = {isa = PBXFileReference; name = "BebasNeue-Regular.ttf"; path = "../src/assets/fonts/BebasNeue-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		EED2E6E21B69FD562DA2A363 /* Pods-GuessTheNumber.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GuessTheNumber.debug.xcconfig"; path = "Target Support Files/Pods-GuessTheNumber/Pods-GuessTheNumber.debug.xcconfig"; sourceTree = "<group>"; };
+		F245C6157AC4400BBB043A0C /* BarlowCondensed-LightItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "BarlowCondensed-LightItalic.ttf"; path = "../src/assets/fonts/BarlowCondensed-LightItalic.ttf"; sourceTree = "<group>"; };
+		FF13DDB89C9B135D1ADA27D6 /* Pods-GuessTheNumber-GuessTheNumberTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GuessTheNumber-GuessTheNumberTests.debug.xcconfig"; path = "Target Support Files/Pods-GuessTheNumber-GuessTheNumberTests/Pods-GuessTheNumber-GuessTheNumberTests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +89,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2749B82FFB7D9D7BF3BE49F0 /* libPods-GuessTheNumber-GuessTheNumberTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -88,6 +97,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				70CB00D473738BE6812230F2 /* libPods-GuessTheNumber.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -128,43 +138,14 @@
 			isa = PBXGroup;
 			children = (
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
+				3A6E731EAB9DDE7E7648DF24 /* libPods-GuessTheNumber.a */,
+				D9D951B15DC122D16C09D529 /* libPods-GuessTheNumber-GuessTheNumberTests.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		832341AE1AAA6A7D00B99B32 /* Libraries */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			name = Libraries;
-			sourceTree = "<group>";
-		};
-		83CBB9F61A601CBA00E9B192 = {
-			isa = PBXGroup;
-			children = (
-				13B07FAE1A68108700A75B9A /* GuessTheNumber */,
-				832341AE1AAA6A7D00B99B32 /* Libraries */,
-				00E356EF1AD99517003FC87E /* GuessTheNumberTests */,
-				83CBBA001A601CBA00E9B192 /* Products */,
-				2D16E6871FA4F8E400B85C8A /* Frameworks */,
-				50681E8C271B40159AEE8FD0 /* Resources */,
-			);
-			indentWidth = 2;
-			sourceTree = "<group>";
-			tabWidth = 2;
-			usesTabs = 0;
-		};
-		83CBBA001A601CBA00E9B192 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				13B07F961A680F5B00A75B9A /* GuessTheNumber.app */,
-				00E356EE1AD99517003FC87E /* GuessTheNumberTests.xctest */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
 		50681E8C271B40159AEE8FD0 /* Resources */ = {
-			isa = "PBXGroup";
+			isa = PBXGroup;
 			children = (
 				598C5460ABA6439D807CCB7A /* BarlowCondensed-Black.ttf */,
 				D5D9C265E5634D3781C6A139 /* BarlowCondensed-BlackItalic.ttf */,
@@ -187,8 +168,52 @@
 				DF72DC92B3284800A1D859EB /* BebasNeue-Regular.ttf */,
 			);
 			name = Resources;
-			sourceTree = "<group>";
 			path = "";
+			sourceTree = "<group>";
+		};
+		5B7F3CF10694A402E926C343 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				EED2E6E21B69FD562DA2A363 /* Pods-GuessTheNumber.debug.xcconfig */,
+				01F0240C71E8699C98C45F65 /* Pods-GuessTheNumber.release.xcconfig */,
+				FF13DDB89C9B135D1ADA27D6 /* Pods-GuessTheNumber-GuessTheNumberTests.debug.xcconfig */,
+				56E4972358F55830DB647075 /* Pods-GuessTheNumber-GuessTheNumberTests.release.xcconfig */,
+			);
+			name = Pods;
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		832341AE1AAA6A7D00B99B32 /* Libraries */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Libraries;
+			sourceTree = "<group>";
+		};
+		83CBB9F61A601CBA00E9B192 = {
+			isa = PBXGroup;
+			children = (
+				13B07FAE1A68108700A75B9A /* GuessTheNumber */,
+				832341AE1AAA6A7D00B99B32 /* Libraries */,
+				00E356EF1AD99517003FC87E /* GuessTheNumberTests */,
+				83CBBA001A601CBA00E9B192 /* Products */,
+				2D16E6871FA4F8E400B85C8A /* Frameworks */,
+				50681E8C271B40159AEE8FD0 /* Resources */,
+				5B7F3CF10694A402E926C343 /* Pods */,
+			);
+			indentWidth = 2;
+			sourceTree = "<group>";
+			tabWidth = 2;
+			usesTabs = 0;
+		};
+		83CBBA001A601CBA00E9B192 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				13B07F961A680F5B00A75B9A /* GuessTheNumber.app */,
+				00E356EE1AD99517003FC87E /* GuessTheNumberTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
@@ -197,9 +222,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "GuessTheNumberTests" */;
 			buildPhases = (
+				81B91FD9C4B3D7B32143C5A3 /* [CP] Check Pods Manifest.lock */,
 				00E356EA1AD99517003FC87E /* Sources */,
 				00E356EB1AD99517003FC87E /* Frameworks */,
 				00E356EC1AD99517003FC87E /* Resources */,
+				96D11A55462FFFFBADD09EEA /* [CP] Embed Pods Frameworks */,
+				79F32AE2A83A7749098047BF /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -215,11 +243,14 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "GuessTheNumber" */;
 			buildPhases = (
+				070CBE0F564BB518D08FAFA7 /* [CP] Check Pods Manifest.lock */,
 				FD10A7F022414F080027D42C /* Start Packager */,
 				13B07F871A680F5B00A75B9A /* Sources */,
 				13B07F8C1A680F5B00A75B9A /* Frameworks */,
 				13B07F8E1A680F5B00A75B9A /* Resources */,
 				00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */,
+				C4E2C8D35E3A3205622714A7 /* [CP] Embed Pods Frameworks */,
+				6821C8F45E719871AF00B18C /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -319,6 +350,118 @@
 			shellPath = /bin/sh;
 			shellScript = "set -e\n\nexport NODE_BINARY=node\n../node_modules/react-native/scripts/react-native-xcode.sh\n";
 		};
+		070CBE0F564BB518D08FAFA7 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-GuessTheNumber-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		6821C8F45E719871AF00B18C /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-GuessTheNumber/Pods-GuessTheNumber-resources-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-GuessTheNumber/Pods-GuessTheNumber-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-GuessTheNumber/Pods-GuessTheNumber-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		79F32AE2A83A7749098047BF /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-GuessTheNumber-GuessTheNumberTests/Pods-GuessTheNumber-GuessTheNumberTests-resources-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-GuessTheNumber-GuessTheNumberTests/Pods-GuessTheNumber-GuessTheNumberTests-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-GuessTheNumber-GuessTheNumberTests/Pods-GuessTheNumber-GuessTheNumberTests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		81B91FD9C4B3D7B32143C5A3 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-GuessTheNumber-GuessTheNumberTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		96D11A55462FFFFBADD09EEA /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-GuessTheNumber-GuessTheNumberTests/Pods-GuessTheNumber-GuessTheNumberTests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-GuessTheNumber-GuessTheNumberTests/Pods-GuessTheNumber-GuessTheNumberTests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-GuessTheNumber-GuessTheNumberTests/Pods-GuessTheNumber-GuessTheNumberTests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		C4E2C8D35E3A3205622714A7 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-GuessTheNumber/Pods-GuessTheNumber-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-GuessTheNumber/Pods-GuessTheNumber-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-GuessTheNumber/Pods-GuessTheNumber-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
 		FD10A7F022414F080027D42C /* Start Packager */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
@@ -371,6 +514,7 @@
 /* Begin XCBuildConfiguration section */
 		00E356F61AD99517003FC87E /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = FF13DDB89C9B135D1ADA27D6 /* Pods-GuessTheNumber-GuessTheNumberTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -397,6 +541,7 @@
 		};
 		00E356F71AD99517003FC87E /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 56E4972358F55830DB647075 /* Pods-GuessTheNumber-GuessTheNumberTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
@@ -420,6 +565,7 @@
 		};
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = EED2E6E21B69FD562DA2A363 /* Pods-GuessTheNumber.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
@@ -445,6 +591,7 @@
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 01F0240C71E8699C98C45F65 /* Pods-GuessTheNumber.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
@@ -499,6 +646,7 @@
 				COPY_PHASE_STRIP = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
+				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = "arm64 ";
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_NO_COMMON_BLOCKS = YES;
@@ -564,6 +712,7 @@
 				COPY_PHASE_STRIP = YES;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = "arm64 ";
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;

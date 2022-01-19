@@ -1,5 +1,8 @@
 import React, { useState } from 'react';
-import { View, Text, Button } from 'react-native';
+import { View, Text, ImageBackground } from 'react-native';
+import { styles } from './styles';
+import guessImage from '../../assets/images/screen-0.jpg';
+import CustomButton from '../../components/atoms/CustomButton';
 
 const GameScreen = ({
     route,
@@ -37,20 +40,41 @@ const GameScreen = ({
     }
 
     return (
-        <View>
-            <Text>GameScreen</Text>
-            <Text>Player {player}</Text>
-            <Text>Number {number}</Text>
-            <Text>Points {points}</Text>
-            <Text>CPU number {numberNew}</Text>
-            <Button
-                onPress={() => handleMinor()}
-                title={'Minor'}
-            />
-            <Button
-                onPress={() => handleHigher()}
-                title={'Higher'}
-            />
+        <View style={styles.container}>
+            <ImageBackground source={guessImage} resizeMode="cover" style={styles.image}>
+                <View style={styles.containerGame}>
+                    <Text style={[styles.text, styles.underline]}>Details</Text>
+                    <Text style={styles.text}>Player: {player}</Text>
+                    <Text style={styles.text}>Number selected: {number}</Text>
+                    <Text style={styles.text}>CPU number: {numberNew}</Text>
+                    <Text style={styles.text}>Points: {points}</Text>
+
+                    <View style={styles.containerButtons}>
+                        <CustomButton
+                            onPress={handleMinor}
+                            text={'Minor'}
+                            buttonContainer={{
+                                backgroundColor: "#009688",
+                                marginVertical: 10,
+                                marginHorizontal: 5,
+                                padding: 10,
+                                borderRadius: 5
+                            }}
+                        />
+                        <CustomButton
+                            onPress={handleHigher}
+                            text={'Higher'}
+                            buttonContainer={{
+                                backgroundColor: "#009688",
+                                marginVertical: 10,
+                                marginHorizontal: 5,
+                                padding: 10,
+                                borderRadius: 5
+                            }}
+                        />
+                    </View>
+                </View>
+            </ImageBackground>
         </View>
     )
 }

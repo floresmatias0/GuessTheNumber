@@ -20,47 +20,61 @@ const Card = ({
 }) => {
     return (
         <View>
-            <Text style={styles.title}>{title}</Text>
 			{!start && (
-                <CustomButton
-                    buttonContainer={{
-                        backgroundColor: "#009688",
-                        borderRadius: 5,
-                        paddingVertical: 10,
-                        marginVertical: 30,
-                        marginHorizontal: 100
-                    }}
-                    onPress={() => setStart(start ? false : true)}
-                    text={'Start Game'}
-                />
+				<View style={styles.containerCardName}>
+					<Text style={styles.title}>{title}</Text>
+					<CustomButton
+						buttonContainer={{
+							backgroundColor: "#009688",
+							borderRadius: 5,
+							padding: 10,
+							marginVertical: 20,
+						}}
+						onPress={() => setStart(start ? false : true)}
+						text={'Start Game'}
+					/>
+				</View>
 			)}
 			{start && !selectedName && !selectedNumber && (
-				<View>
-					<Text>{inputName}</Text>
+				<View style={styles.containerCardName}>
+					<Text style={styles.textName}>{inputName}</Text>
 					<TextInput
 						onChangeText={handleChangeName}
 						keyboardType='default'
 						value={name}
 						placeholder='John Doe'
+						style={styles.inputName}
 					/>
 					<CustomButton
+						buttonContainer={{
+							backgroundColor: "#009688",
+							marginVertical: 10,
+							padding: 10,
+							borderRadius: 5
+						}}
 						onPress={addName}
 						text={'Send'}
 					/>
 				</View>
 			)}
 			{start && selectedName && !selectedNumber && (
-				<View>
-					<Text>{inputNumber}</Text>
+				<View style={styles.containerCardName}>
+					<Text style={styles.textName}>{inputNumber}</Text>
 					<TextInput
 						onChangeText={handleChangeNumber}
 						keyboardType='numeric'
-						value={number.toString()}
 						placeholder='23'
+						style={styles.inputName}
 					/>
 					<CustomButton
 						onPress={addNumber}
 						text={'Choiced!'}
+						buttonContainer={{
+							backgroundColor: "#009688",
+							marginVertical: 10,
+							padding: 10,
+							borderRadius: 5
+						}}
 					/>
 				</View>
 			)}

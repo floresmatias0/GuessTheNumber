@@ -61,7 +61,7 @@ const HomeScreen = ({navigation}) => {
 				addName={addName}
 				handleChangeNumber={handleChangeNumber}
 				addNumber={addNumber}
-				inputName={'What your name!'}
+				inputName={'What your name?'}
 				inputNumber={'Choice a number to start'}
 			/>
 		</ImageBackground>
