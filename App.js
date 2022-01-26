@@ -2,12 +2,16 @@
 
 import * as React from 'react';
 import { SafeAreaView } from 'react-native-safe-area-context';
-import MainStack from './src/navigation/MainStack';
+// import MainStack from './src/navigation/MainStack';
+import { NavigationContainer } from '@react-navigation/native';
+import ShopStackNavigation from './src/navigation/ShopStack'
 
 const App = () => {
   return (
     <SafeAreaView style={{ flex: 1 }}>
-      <MainStack/>
+      <NavigationContainer>
+        <ShopStackNavigation/>
+      </NavigationContainer>
     </SafeAreaView>
   );
 }
