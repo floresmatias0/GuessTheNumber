@@ -6,11 +6,11 @@ import Products from '../../screens/Products';
 import {Platform} from 'react-native';
 import {COLORS} from '../../utils/constants/colors';
 
-const Stack = createNativeStackNavigator();
+const ShopStack = createNativeStackNavigator();
 
-const ShopStackNavigation = () => {
+const ShopNavigator = () => {
     return (
-        <Stack.Navigator
+        <ShopStack.Navigator
             initialRouteName='Categories'
             screenOptions={{
                 headerStyle: {
@@ -24,8 +24,8 @@ const ShopStackNavigation = () => {
                 }
             }}
         >
-            <Stack.Screen name="Categories" component={Categories} />
-            <Stack.Screen 
+            <ShopStack.Screen name="Categories" component={Categories} />
+            <ShopStack.Screen 
                 name="Products"
                 component={Products}
                 options={({ route }) => ({
@@ -35,15 +35,15 @@ const ShopStackNavigation = () => {
                     },
                 })}
             />
-            <Stack.Screen 
+            <ShopStack.Screen 
                 name="ProductDetail"
                 component={ProductDetail}
                 options={({ route }) => ({
                     title: route.params.name,
                 })}
             />
-        </Stack.Navigator>
+        </ShopStack.Navigator>
     )
 }
 
-export default ShopStackNavigation;
+export default ShopNavigator;
