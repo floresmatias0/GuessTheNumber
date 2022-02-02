@@ -24,7 +24,10 @@ const ShopNavigator = () => {
                 }
             }}
         >
-            <ShopStack.Screen name="Categories" component={Categories} />
+            <ShopStack.Screen 
+                name="Categories"
+                component={Categories}
+            />
             <ShopStack.Screen 
                 name="Products"
                 component={Products}

@@ -11,7 +11,7 @@ import AuthNavigator from '../Auth';
 const MainNavigator = () => {
     // const isLoggedIn = useSelector(state => state.auth.token);
     // const { isLoggedIn, setLoggedIn } = useContext(LoggedContext);
-    let isLoggedIn = false;
+    let isLoggedIn = true;
 
     return (
         <NavigationContainer>

@@ -8,31 +8,12 @@
 
 /* Begin PBXBuildFile section */
 		00E356F31AD99517003FC87E /* GuessTheNumberTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* GuessTheNumberTests.m */; };
-		02B0457BC4344687BC4DEE00 /* BarlowCondensed-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 01BD7237A87E47F48F9EE5FD /* BarlowCondensed-Italic.ttf */; };
-		03EE46A726C149DDA1E4844C /* BarlowCondensed-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5D5D16AE39D045E4B669F94D /* BarlowCondensed-ExtraBold.ttf */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		2749B82FFB7D9D7BF3BE49F0 /* libPods-GuessTheNumber-GuessTheNumberTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = D9D951B15DC122D16C09D529 /* libPods-GuessTheNumber-GuessTheNumberTests.a */; };
-		2C3058BDE6944CB59643FE02 /* BarlowCondensed-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3DD8ECB1B7A14864951C252A /* BarlowCondensed-Thin.ttf */; };
-		2F12500FC8D5450390420B66 /* BarlowCondensed-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7E0169D7903F465E97A99585 /* BarlowCondensed-Regular.ttf */; };
-		39774FA5DFB44453838509BF /* BarlowCondensed-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 598C5460ABA6439D807CCB7A /* BarlowCondensed-Black.ttf */; };
-		4CCECD0E0DD84F73B0B696A0 /* BebasNeue-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DF72DC92B3284800A1D859EB /* BebasNeue-Regular.ttf */; };
 		70CB00D473738BE6812230F2 /* libPods-GuessTheNumber.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3A6E731EAB9DDE7E7648DF24 /* libPods-GuessTheNumber.a */; };
-		7D4527A92D0F497CA3091AA8 /* BarlowCondensed-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BA58B9E606F44F5FA97D953A /* BarlowCondensed-Medium.ttf */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
-		84326F4C2F5F4738BB048A45 /* BarlowCondensed-ThinItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E60CAAA8AAD641F4A3144A3F /* BarlowCondensed-ThinItalic.ttf */; };
-		8F60FC286B4E41D6ABAA4F23 /* BarlowCondensed-SemiBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 068E6B91B1A846FB918A73FD /* BarlowCondensed-SemiBoldItalic.ttf */; };
-		AD8E3F0B4C894B438266596C /* BarlowCondensed-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F245C6157AC4400BBB043A0C /* BarlowCondensed-LightItalic.ttf */; };
-		AF720EDEBA43404F8242D072 /* BarlowCondensed-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 89E030664E904C3684C3C4A0 /* BarlowCondensed-ExtraLight.ttf */; };
-		B38E5BFCAB664BAFAA8404C0 /* BarlowCondensed-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 24C83167C9044B029F896501 /* BarlowCondensed-SemiBold.ttf */; };
-		BF1B5EDE630B4E9D9743C6CC /* BarlowCondensed-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B19B2692639247CBABF1DDC0 /* BarlowCondensed-MediumItalic.ttf */; };
-		CCE2024683D4496A995520D8 /* BarlowCondensed-BlackItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D5D9C265E5634D3781C6A139 /* BarlowCondensed-BlackItalic.ttf */; };
-		D90A5D1EA0EA4E1AAE879892 /* BarlowCondensed-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 63474A4B704640FFA4DE1980 /* BarlowCondensed-Bold.ttf */; };
-		E7426D54873C423A9E9AB752 /* BarlowCondensed-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0A26E5A2F934406A8DB005F3 /* BarlowCondensed-BoldItalic.ttf */; };
-		E8EE70F2364D48C7A86755D0 /* BarlowCondensed-ExtraBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 86C1F9FC40484DD4A8C8F9C7 /* BarlowCondensed-ExtraBoldItalic.ttf */; };
-		F3F6804FF76F46DDBA59B339 /* BarlowCondensed-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B6FEDA9044E24C37AFAA8A2E /* BarlowCondensed-Light.ttf */; };
-		F8F120DF5A7647DA8A4A2AAE /* BarlowCondensed-ExtraLightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9BD54F8D50AE434BB602A30B /* BarlowCondensed-ExtraLightItalic.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,38 +30,54 @@
 		00E356EE1AD99517003FC87E /* GuessTheNumberTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GuessTheNumberTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00E356F21AD99517003FC87E /* GuessTheNumberTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GuessTheNumberTests.m; sourceTree = "<group>"; };
-		01BD7237A87E47F48F9EE5FD /* BarlowCondensed-Italic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "BarlowCondensed-Italic.ttf"; path = "../src/assets/fonts/BarlowCondensed-Italic.ttf"; sourceTree = "<group>"; };
+		01BD7237A87E47F48F9EE5FD /* BarlowCondensed-Italic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "BarlowCondensed-Italic.ttf"; path = "../src/assets/fonts/BarlowCondensed-Italic.ttf"; sourceTree = "<group>"; };
 		01F0240C71E8699C98C45F65 /* Pods-GuessTheNumber.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GuessTheNumber.release.xcconfig"; path = "Target Support Files/Pods-GuessTheNumber/Pods-GuessTheNumber.release.xcconfig"; sourceTree = "<group>"; };
-		068E6B91B1A846FB918A73FD /* BarlowCondensed-SemiBoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "BarlowCondensed-SemiBoldItalic.ttf"; path = "../src/assets/fonts/BarlowCondensed-SemiBoldItalic.ttf"; sourceTree = "<group>"; };
-		0A26E5A2F934406A8DB005F3 /* BarlowCondensed-BoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "BarlowCondensed-BoldItalic.ttf"; path = "../src/assets/fonts/BarlowCondensed-BoldItalic.ttf"; sourceTree = "<group>"; };
+		068E6B91B1A846FB918A73FD /* BarlowCondensed-SemiBoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "BarlowCondensed-SemiBoldItalic.ttf"; path = "../src/assets/fonts/BarlowCondensed-SemiBoldItalic.ttf"; sourceTree = "<group>"; };
+		0A26E5A2F934406A8DB005F3 /* BarlowCondensed-BoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "BarlowCondensed-BoldItalic.ttf"; path = "../src/assets/fonts/BarlowCondensed-BoldItalic.ttf"; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* GuessTheNumber.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GuessTheNumber.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = GuessTheNumber/AppDelegate.h; sourceTree = "<group>"; };
 		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = GuessTheNumber/AppDelegate.m; sourceTree = "<group>"; };
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = GuessTheNumber/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = GuessTheNumber/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = GuessTheNumber/main.m; sourceTree = "<group>"; };
-		24C83167C9044B029F896501 /* BarlowCondensed-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "BarlowCondensed-SemiBold.ttf"; path = "../src/assets/fonts/BarlowCondensed-SemiBold.ttf"; sourceTree = "<group>"; };
+		24C83167C9044B029F896501 /* BarlowCondensed-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "BarlowCondensed-SemiBold.ttf"; path = "../src/assets/fonts/BarlowCondensed-SemiBold.ttf"; sourceTree = "<group>"; };
 		3A6E731EAB9DDE7E7648DF24 /* libPods-GuessTheNumber.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-GuessTheNumber.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		3DD8ECB1B7A14864951C252A /* BarlowCondensed-Thin.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "BarlowCondensed-Thin.ttf"; path = "../src/assets/fonts/BarlowCondensed-Thin.ttf"; sourceTree = "<group>"; };
+		3DD8ECB1B7A14864951C252A /* BarlowCondensed-Thin.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "BarlowCondensed-Thin.ttf"; path = "../src/assets/fonts/BarlowCondensed-Thin.ttf"; sourceTree = "<group>"; };
 		56E4972358F55830DB647075 /* Pods-GuessTheNumber-GuessTheNumberTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GuessTheNumber-GuessTheNumberTests.release.xcconfig"; path = "Target Support Files/Pods-GuessTheNumber-GuessTheNumberTests/Pods-GuessTheNumber-GuessTheNumberTests.release.xcconfig"; sourceTree = "<group>"; };
-		598C5460ABA6439D807CCB7A /* BarlowCondensed-Black.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "BarlowCondensed-Black.ttf"; path = "../src/assets/fonts/BarlowCondensed-Black.ttf"; sourceTree = "<group>"; };
-		5D5D16AE39D045E4B669F94D /* BarlowCondensed-ExtraBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "BarlowCondensed-ExtraBold.ttf"; path = "../src/assets/fonts/BarlowCondensed-ExtraBold.ttf"; sourceTree = "<group>"; };
-		63474A4B704640FFA4DE1980 /* BarlowCondensed-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "BarlowCondensed-Bold.ttf"; path = "../src/assets/fonts/BarlowCondensed-Bold.ttf"; sourceTree = "<group>"; };
-		7E0169D7903F465E97A99585 /* BarlowCondensed-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "BarlowCondensed-Regular.ttf"; path = "../src/assets/fonts/BarlowCondensed-Regular.ttf"; sourceTree = "<group>"; };
+		598C5460ABA6439D807CCB7A /* BarlowCondensed-Black.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "BarlowCondensed-Black.ttf"; path = "../src/assets/fonts/BarlowCondensed-Black.ttf"; sourceTree = "<group>"; };
+		5D5D16AE39D045E4B669F94D /* BarlowCondensed-ExtraBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "BarlowCondensed-ExtraBold.ttf"; path = "../src/assets/fonts/BarlowCondensed-ExtraBold.ttf"; sourceTree = "<group>"; };
+		6044F6A127AA2E0000B5E40D /* Fontisto.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Fontisto.ttf; sourceTree = "<group>"; };
+		6044F6A227AA2E0000B5E40D /* Octicons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Octicons.ttf; sourceTree = "<group>"; };
+		6044F6A327AA2E0000B5E40D /* Feather.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Feather.ttf; sourceTree = "<group>"; };
+		6044F6A427AA2E0000B5E40D /* Entypo.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Entypo.ttf; sourceTree = "<group>"; };
+		6044F6A527AA2E0000B5E40D /* FontAwesome5_Brands.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome5_Brands.ttf; sourceTree = "<group>"; };
+		6044F6A627AA2E0000B5E40D /* MaterialCommunityIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = MaterialCommunityIcons.ttf; sourceTree = "<group>"; };
+		6044F6A727AA2E0000B5E40D /* AntDesign.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = AntDesign.ttf; sourceTree = "<group>"; };
+		6044F6A827AA2E0000B5E40D /* Foundation.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Foundation.ttf; sourceTree = "<group>"; };
+		6044F6A927AA2E0000B5E40D /* Ionicons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Ionicons.ttf; sourceTree = "<group>"; };
+		6044F6AA27AA2E0000B5E40D /* FontAwesome5_Solid.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome5_Solid.ttf; sourceTree = "<group>"; };
+		6044F6AB27AA2E0000B5E40D /* FontAwesome5_Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome5_Regular.ttf; sourceTree = "<group>"; };
+		6044F6AC27AA2E0000B5E40D /* FontAwesome.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome.ttf; sourceTree = "<group>"; };
+		6044F6AD27AA2E0000B5E40D /* Zocial.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Zocial.ttf; sourceTree = "<group>"; };
+		6044F6AE27AA2E0000B5E40D /* EvilIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = EvilIcons.ttf; sourceTree = "<group>"; };
+		6044F6AF27AA2E0000B5E40D /* SimpleLineIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = SimpleLineIcons.ttf; sourceTree = "<group>"; };
+		6044F6B027AA2E0000B5E40D /* MaterialIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = MaterialIcons.ttf; sourceTree = "<group>"; };
+		63474A4B704640FFA4DE1980 /* BarlowCondensed-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "BarlowCondensed-Bold.ttf"; path = "../src/assets/fonts/BarlowCondensed-Bold.ttf"; sourceTree = "<group>"; };
+		7E0169D7903F465E97A99585 /* BarlowCondensed-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "BarlowCondensed-Regular.ttf"; path = "../src/assets/fonts/BarlowCondensed-Regular.ttf"; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = GuessTheNumber/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		86C1F9FC40484DD4A8C8F9C7 /* BarlowCondensed-ExtraBoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "BarlowCondensed-ExtraBoldItalic.ttf"; path = "../src/assets/fonts/BarlowCondensed-ExtraBoldItalic.ttf"; sourceTree = "<group>"; };
-		89E030664E904C3684C3C4A0 /* BarlowCondensed-ExtraLight.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "BarlowCondensed-ExtraLight.ttf"; path = "../src/assets/fonts/BarlowCondensed-ExtraLight.ttf"; sourceTree = "<group>"; };
-		9BD54F8D50AE434BB602A30B /* BarlowCondensed-ExtraLightItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "BarlowCondensed-ExtraLightItalic.ttf"; path = "../src/assets/fonts/BarlowCondensed-ExtraLightItalic.ttf"; sourceTree = "<group>"; };
-		B19B2692639247CBABF1DDC0 /* BarlowCondensed-MediumItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "BarlowCondensed-MediumItalic.ttf"; path = "../src/assets/fonts/BarlowCondensed-MediumItalic.ttf"; sourceTree = "<group>"; };
-		B6FEDA9044E24C37AFAA8A2E /* BarlowCondensed-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "BarlowCondensed-Light.ttf"; path = "../src/assets/fonts/BarlowCondensed-Light.ttf"; sourceTree = "<group>"; };
-		BA58B9E606F44F5FA97D953A /* BarlowCondensed-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "BarlowCondensed-Medium.ttf"; path = "../src/assets/fonts/BarlowCondensed-Medium.ttf"; sourceTree = "<group>"; };
-		D5D9C265E5634D3781C6A139 /* BarlowCondensed-BlackItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "BarlowCondensed-BlackItalic.ttf"; path = "../src/assets/fonts/BarlowCondensed-BlackItalic.ttf"; sourceTree = "<group>"; };
+		86C1F9FC40484DD4A8C8F9C7 /* BarlowCondensed-ExtraBoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "BarlowCondensed-ExtraBoldItalic.ttf"; path = "../src/assets/fonts/BarlowCondensed-ExtraBoldItalic.ttf"; sourceTree = "<group>"; };
+		89E030664E904C3684C3C4A0 /* BarlowCondensed-ExtraLight.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "BarlowCondensed-ExtraLight.ttf"; path = "../src/assets/fonts/BarlowCondensed-ExtraLight.ttf"; sourceTree = "<group>"; };
+		9BD54F8D50AE434BB602A30B /* BarlowCondensed-ExtraLightItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "BarlowCondensed-ExtraLightItalic.ttf"; path = "../src/assets/fonts/BarlowCondensed-ExtraLightItalic.ttf"; sourceTree = "<group>"; };
+		B19B2692639247CBABF1DDC0 /* BarlowCondensed-MediumItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "BarlowCondensed-MediumItalic.ttf"; path = "../src/assets/fonts/BarlowCondensed-MediumItalic.ttf"; sourceTree = "<group>"; };
+		B6FEDA9044E24C37AFAA8A2E /* BarlowCondensed-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "BarlowCondensed-Light.ttf"; path = "../src/assets/fonts/BarlowCondensed-Light.ttf"; sourceTree = "<group>"; };
+		BA58B9E606F44F5FA97D953A /* BarlowCondensed-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "BarlowCondensed-Medium.ttf"; path = "../src/assets/fonts/BarlowCondensed-Medium.ttf"; sourceTree = "<group>"; };
+		D5D9C265E5634D3781C6A139 /* BarlowCondensed-BlackItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "BarlowCondensed-BlackItalic.ttf"; path = "../src/assets/fonts/BarlowCondensed-BlackItalic.ttf"; sourceTree = "<group>"; };
 		D9D951B15DC122D16C09D529 /* libPods-GuessTheNumber-GuessTheNumberTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-GuessTheNumber-GuessTheNumberTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		DF72DC92B3284800A1D859EB /* BebasNeue-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "BebasNeue-Regular.ttf"; path = "../src/assets/fonts/BebasNeue-Regular.ttf"; sourceTree = "<group>"; };
-		E60CAAA8AAD641F4A3144A3F /* BarlowCondensed-ThinItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "BarlowCondensed-ThinItalic.ttf"; path = "../src/assets/fonts/BarlowCondensed-ThinItalic.ttf"; sourceTree = "<group>"; };
+		DF72DC92B3284800A1D859EB /* BebasNeue-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "BebasNeue-Regular.ttf"; path = "../src/assets/fonts/BebasNeue-Regular.ttf"; sourceTree = "<group>"; };
+		E60CAAA8AAD641F4A3144A3F /* BarlowCondensed-ThinItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "BarlowCondensed-ThinItalic.ttf"; path = "../src/assets/fonts/BarlowCondensed-ThinItalic.ttf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		EED2E6E21B69FD562DA2A363 /* Pods-GuessTheNumber.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GuessTheNumber.debug.xcconfig"; path = "Target Support Files/Pods-GuessTheNumber/Pods-GuessTheNumber.debug.xcconfig"; sourceTree = "<group>"; };
-		F245C6157AC4400BBB043A0C /* BarlowCondensed-LightItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "BarlowCondensed-LightItalic.ttf"; path = "../src/assets/fonts/BarlowCondensed-LightItalic.ttf"; sourceTree = "<group>"; };
+		F245C6157AC4400BBB043A0C /* BarlowCondensed-LightItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "BarlowCondensed-LightItalic.ttf"; path = "../src/assets/fonts/BarlowCondensed-LightItalic.ttf"; sourceTree = "<group>"; };
 		FF13DDB89C9B135D1ADA27D6 /* Pods-GuessTheNumber-GuessTheNumberTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GuessTheNumber-GuessTheNumberTests.debug.xcconfig"; path = "Target Support Files/Pods-GuessTheNumber-GuessTheNumberTests/Pods-GuessTheNumber-GuessTheNumberTests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -168,7 +165,6 @@
 				DF72DC92B3284800A1D859EB /* BebasNeue-Regular.ttf */,
 			);
 			name = Resources;
-			path = "";
 			sourceTree = "<group>";
 		};
 		5B7F3CF10694A402E926C343 /* Pods */ = {
@@ -179,8 +175,31 @@
 				FF13DDB89C9B135D1ADA27D6 /* Pods-GuessTheNumber-GuessTheNumberTests.debug.xcconfig */,
 				56E4972358F55830DB647075 /* Pods-GuessTheNumber-GuessTheNumberTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
+			sourceTree = "<group>";
+		};
+		6044F6A027AA2E0000B5E40D /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				6044F6A127AA2E0000B5E40D /* Fontisto.ttf */,
+				6044F6A227AA2E0000B5E40D /* Octicons.ttf */,
+				6044F6A327AA2E0000B5E40D /* Feather.ttf */,
+				6044F6A427AA2E0000B5E40D /* Entypo.ttf */,
+				6044F6A527AA2E0000B5E40D /* FontAwesome5_Brands.ttf */,
+				6044F6A627AA2E0000B5E40D /* MaterialCommunityIcons.ttf */,
+				6044F6A727AA2E0000B5E40D /* AntDesign.ttf */,
+				6044F6A827AA2E0000B5E40D /* Foundation.ttf */,
+				6044F6A927AA2E0000B5E40D /* Ionicons.ttf */,
+				6044F6AA27AA2E0000B5E40D /* FontAwesome5_Solid.ttf */,
+				6044F6AB27AA2E0000B5E40D /* FontAwesome5_Regular.ttf */,
+				6044F6AC27AA2E0000B5E40D /* FontAwesome.ttf */,
+				6044F6AD27AA2E0000B5E40D /* Zocial.ttf */,
+				6044F6AE27AA2E0000B5E40D /* EvilIcons.ttf */,
+				6044F6AF27AA2E0000B5E40D /* SimpleLineIcons.ttf */,
+				6044F6B027AA2E0000B5E40D /* MaterialIcons.ttf */,
+			);
+			name = Fonts;
+			path = "../node_modules/react-native-vector-icons/Fonts";
 			sourceTree = "<group>";
 		};
 		832341AE1AAA6A7D00B99B32 /* Libraries */ = {
@@ -193,6 +212,7 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
+				6044F6A027AA2E0000B5E40D /* Fonts */,
 				13B07FAE1A68108700A75B9A /* GuessTheNumber */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
 				00E356EF1AD99517003FC87E /* GuessTheNumberTests */,
@@ -311,25 +331,6 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
-				39774FA5DFB44453838509BF /* BarlowCondensed-Black.ttf in Resources */,
-				CCE2024683D4496A995520D8 /* BarlowCondensed-BlackItalic.ttf in Resources */,
-				D90A5D1EA0EA4E1AAE879892 /* BarlowCondensed-Bold.ttf in Resources */,
-				E7426D54873C423A9E9AB752 /* BarlowCondensed-BoldItalic.ttf in Resources */,
-				03EE46A726C149DDA1E4844C /* BarlowCondensed-ExtraBold.ttf in Resources */,
-				E8EE70F2364D48C7A86755D0 /* BarlowCondensed-ExtraBoldItalic.ttf in Resources */,
-				AF720EDEBA43404F8242D072 /* BarlowCondensed-ExtraLight.ttf in Resources */,
-				F8F120DF5A7647DA8A4A2AAE /* BarlowCondensed-ExtraLightItalic.ttf in Resources */,
-				02B0457BC4344687BC4DEE00 /* BarlowCondensed-Italic.ttf in Resources */,
-				F3F6804FF76F46DDBA59B339 /* BarlowCondensed-Light.ttf in Resources */,
-				AD8E3F0B4C894B438266596C /* BarlowCondensed-LightItalic.ttf in Resources */,
-				7D4527A92D0F497CA3091AA8 /* BarlowCondensed-Medium.ttf in Resources */,
-				BF1B5EDE630B4E9D9743C6CC /* BarlowCondensed-MediumItalic.ttf in Resources */,
-				2F12500FC8D5450390420B66 /* BarlowCondensed-Regular.ttf in Resources */,
-				B38E5BFCAB664BAFAA8404C0 /* BarlowCondensed-SemiBold.ttf in Resources */,
-				8F60FC286B4E41D6ABAA4F23 /* BarlowCondensed-SemiBoldItalic.ttf in Resources */,
-				2C3058BDE6944CB59643FE02 /* BarlowCondensed-Thin.ttf in Resources */,
-				84326F4C2F5F4738BB048A45 /* BarlowCondensed-ThinItalic.ttf in Resources */,
-				4CCECD0E0DD84F73B0B696A0 /* BebasNeue-Regular.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
