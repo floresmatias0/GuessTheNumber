@@ -1,19 +1,20 @@
 import React from 'react';
 import {SafeAreaView, Text, View} from 'react-native';
+import { useSelector } from 'react-redux';
 
 import {styles} from './styles';
 
-const ProductDetail = ({navigation, route}) => {
-  const {product} = route.params;
+const ProductDetail = ({navigation}) => {
+  const bread = useSelector(state => state.breads.selected);
   return (
     <SafeAreaView style={styles.container}>
         <View style={styles.containerDetail}>
         <Text style={styles.title}>Detalles</Text>
             <View style={styles.containerText}>
-                <Text style={styles.text}>{product.name}</Text>
-                <Text style={styles.text}>{product.description}</Text>
-                <Text style={styles.text}>{product.weight}</Text>
-                <Text style={styles.text}>$ {product.price}</Text>
+                <Text style={styles.text}>{bread.name}</Text>
+                <Text style={styles.text}>{bread.description}</Text>
+                <Text style={styles.text}>{bread.weight}</Text>
+                <Text style={styles.text}>$ {bread.price}</Text>
             </View>
         </View>
     </SafeAreaView>

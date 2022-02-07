@@ -1,0 +1,3 @@
+export const SELECT_CATEGORY = 'SELECT_CATEGORY';
+export const SELECT_BREAD = 'SELECT_BREAD';
+export const FILTERED_BREAD = 'FILTERED_BREAD';
