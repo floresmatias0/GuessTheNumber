@@ -13,9 +13,21 @@ export const styles = StyleSheet.create({
     inputName: {
         fontSize: 20,
         backgroundColor: '#fff',
-        width: 200,
         marginVertical: 10,
         borderRadius: 5,
         height: 50,
+    },
+    linkText: {
+        color: '#2e78b7',
+        fontSize: 16,
+        fontWeight: 'bold',
+        marginBottom: 20,
+        textAlign: 'center',
+    },
+    error: {
+        color: '#FF0000',
+        fontSize: 16,
+        fontWeight: 'bold',
+        textAlign: 'center',
     }
 })

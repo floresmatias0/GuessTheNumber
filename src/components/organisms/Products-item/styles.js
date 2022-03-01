@@ -29,9 +29,9 @@ export const styles = StyleSheet.create({
   },
   details: {
     fontFamily: 'BarlowCondensed-SemiBoldItalic',
-        fontSize: 22,
-        color: "#fff",
-        fontWeight: "bold",
+    fontSize: 22,
+    color: "#fff",
+    fontWeight: "bold",
   },
   contentText: {
     flexGrow: 0.5,

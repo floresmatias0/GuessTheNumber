@@ -1,40 +1,17 @@
 import React from 'react';
 import { NavigationContainer } from '@react-navigation/native';
-import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
-import ShopNavigator from './Shop';
+import BottomTabsNavigator from './BottomTabs';
 import AuthNavigator from './Auth';
-import Ionicons from 'react-native-vector-icons/Ionicons';
+import { useSelector } from 'react-redux';
 
-const BottomTabs = createBottomTabNavigator();
+const AppNavigator = () => {
+    const isAuth = useSelector(state => state.auth.token);
 
-const AppNavigation = () => {
     return (
         <NavigationContainer >
-            <BottomTabs.Navigator initialRouteName='Shop' screenOptions={{
-                headerShown: false,
-            }}>
-                <BottomTabs.Screen
-                    name='Shop'
-                    component={ShopNavigator} 
-                    options={{
-                        tabBarIcon: ({ focused }) => (
-                            <Ionicons name='home-outline' size={25} />
-                        )          
-                    }}
-                        
-                />
-                <BottomTabs.Screen
-                    name='Login'
-                    component={AuthNavigator}
-                    options={{
-                        tabBarIcon: ({ focused }) => (
-                            <Ionicons name='log-in-outline' size={25} />
-                        )
-                    }} 
-                    />
-            </BottomTabs.Navigator>
+            {isAuth ? <BottomTabsNavigator/> : <AuthNavigator/>}
         </NavigationContainer>
     )
 }
 
-export default AppNavigation;
+export default AppNavigator;

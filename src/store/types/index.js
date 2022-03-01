@@ -1,3 +1,10 @@
 export const SELECT_CATEGORY = 'SELECT_CATEGORY';
 export const SELECT_BREAD = 'SELECT_BREAD';
 export const FILTERED_BREAD = 'FILTERED_BREAD';
+export const ADD_ITEM = 'ADD_ITEM';
+export const REMOVE_ITEM = 'REMOVE_ITEM';
+export const CONFIRM_CART = 'CONFIRM_CART';
+export const GET_ORDERS = "GET_ORDERS";
+export const DELETE_ORDER = "DELETE_ORDER";
+export const SIGNUP = 'SIGNUP';
+export const SIGNIN = 'SIGNIN';
